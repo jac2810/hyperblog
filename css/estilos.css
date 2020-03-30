@@ -1,17 +1,20 @@
 body{
-    text-align: center;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    color: brown;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    color: #333;
+    font-size: 16px;
 }
 
-.cuerpo h1{
-    border: 2px solid brown;
-    border-radius: 10px;
-    background-color: coral;
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
     
-    
+}
+
+#container h1{
+    font-size: 20px;
 
 }
