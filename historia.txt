@@ -3,3 +3,5 @@ ESTE ES EL NUEVO ARCHIVO DE HISTORIA
 ahora un cambio para ver que pasa
 
 para probar el reset head
+
+PROBANDO LA INSTALCION NUEVA
